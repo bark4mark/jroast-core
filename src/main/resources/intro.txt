@@ -1,0 +1,7 @@
+Usage: jroast [OPTION]
+
+Options:
+ -i				: initialises required folder structure
+ -h				: prints this message
+ -r				: creates output, combining content and templates and copying all assets
+ -c				: cleans the output folder
